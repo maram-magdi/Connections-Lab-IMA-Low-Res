@@ -1,0 +1,80 @@
+h1 {
+    font-family: "century-gothic", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    block-size: 80px;
+    color: white;
+}
+
+h2 {
+    font-family: "century-gothic", sans-serif;
+    color: crimson;
+    font-size: 20px;
+    font-style: italic;
+    width: 60%;
+}
+
+h2.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: "century-gothic", sans-serif;
+    width: 60%;
+    color: gray;
+    block-size: 40px;
+}
+
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    font-family: "century-gothic", sans-serif;
+    color: crimson;
+    /* width: 60%; */
+    /*display: block; */
+    /* text-align: left; */
+
+}
+
+/* a.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+img {
+    max-width: 30%;
+    height: auto;
+    width: 60%;
+    display: inline-block;
+}
+
+/* img.displayed {
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto
+} */
+
+body {
+    background-color: #222222;
+}
+
+/* .container {
+    /* Center the container horizontally
+    display: inline-flex;
+    flex-direction: column;
+    /* justify-content: center; */
+/* You can also vertically center it if needed */
+/* align-items: center;
+    text-align: left;
+} */
+
+/* .center-element {
+    /* Maintain left alignment for all elements */
+/* text-align: left;
+} */
