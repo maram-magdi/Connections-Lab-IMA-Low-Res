@@ -1,0 +1,169 @@
+{
+  "Results": [
+    {
+      "Emotion1": "Excited",
+      "Color1": "Red",
+      "Emotion2": "Sad/Stressed"
+    },
+    {
+      "Emotion1": "Complacent/Curious",
+      "Color1": "Yellow",
+      "Emotion2": "Relaxed"
+    },
+    {
+      "Emotion1": "Chill",
+      "Color1": "Orange",
+      "Emotion2": "Nervous"
+    },
+    {
+      "Emotion1": "Excited",
+      "Color1": "Red",
+      "Emotion2": "Uncomfortable"
+    },
+    {
+      "Emotion1": "Exhausted",
+      "Color1": "Orange",
+      "Emotion2": "Satisfied"
+    },
+    {
+      "Emotion1": "Anxious",
+      "Color1": "Yellow",
+      "Emotion2": "Comfortable"
+    },
+    {
+      "Emotion1": "Anxious",
+      "Color1": "Red",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Overwhelmed",
+      "Color1": "Red",
+      "Emotion2": "Curious"
+    },
+    {
+      "Emotion1": "Curious",
+      "Color1": "Orange",
+      "Emotion2": "Anxious"
+    },
+    {
+      "Emotion1": "Excited",
+      "Color1": "Red",
+      "Emotion2": "Excited"
+    },
+    {
+      "Emotion1": "Calm",
+      "Color1": "Red/Yellow",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Happy",
+      "Color1": "Red",
+      "Emotion2": "Chill"
+    },
+    {
+      "Emotion1": "Content",
+      "Color1": "Yellow/Orange",
+      "Emotion2": "Eager"
+    },
+    {
+      "Emotion1": "Happy",
+      "Color1": "Red",
+      "Emotion2": "Confused/Alarmed"
+    },
+    {
+      "Emotion1": "Tired",
+      "Color1": "Green",
+      "Emotion2": "Energized"
+    },
+    {
+      "Emotion1": "Excited",
+      "Color1": "Red/Orange",
+      "Emotion2": "Nervous"
+    },
+    {
+      "Emotion1": "Excited",
+      "Color1": "Orange",
+      "Emotion2": "Curious"
+    },
+    {
+      "Emotion1": "Sad/Stressed",
+      "Color1": "Blue",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Relaxed",
+      "Color1": "Yellow",
+      "Emotion2": "Relaxed"
+    },
+    {
+      "Emotion1": "Nervous",
+      "Color1": "Green/Blue",
+      "Emotion2": "Concerned"
+    },
+    {
+      "Emotion1": "Uncomfortable",
+      "Color1": "Green",
+      "Emotion2": "Uncomfortable"
+    },
+    {
+      "Emotion1": "Satisfied",
+      "Color1": "Green/Blue",
+      "Emotion2": "Happy"
+    },
+    {
+      "Emotion1": "Comfortable",
+      "Color1": "Blue",
+      "Emotion2": "Inconclusive"
+    },
+    {
+      "Emotion1": "Calm",
+      "Color1": "Blue",
+      "Emotion2": "Comfortable"
+    },
+    {
+      "Emotion1": "Curious",
+      "Color1": "Blue",
+      "Emotion2": "Complicated"
+    },
+    {
+      "Emotion1": "Excited",
+      "Color1": "Blue",
+      "Emotion2": "Inquisitve"
+    },
+    {
+      "Emotion1": "Calm",
+      "Color1": "Blue",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Chill",
+      "Color1": "Blue",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Eager",
+      "Color1": "Green",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Confused/Alarmed",
+      "Color1": "Blue",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Energized",
+      "Color1": "Orange",
+      "Emotion2": "Calm"
+    },
+    {
+      "Emotion1": "Nervous",
+      "Color1": "Green",
+      "Emotion2": "Happy"
+    },
+    {
+      "Emotion1": "Curious",
+      "Color1": "Green/Blue",
+      "Emotion2": "Hypnotized"
+    }
+  ]
+}
