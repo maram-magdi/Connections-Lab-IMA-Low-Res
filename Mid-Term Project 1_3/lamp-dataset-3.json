@@ -1,0 +1,109 @@
+{
+  "Sheet1": [
+    {
+      "Emotion2": "Calm",
+      "CalculatedR": 102,
+      "CalculatedG": 52.25,
+      "CalculatedB": 127.5,
+      "TotalPpl": 10
+    },
+    {
+      "Emotion2": "Curious",
+      "CalculatedR": 170,
+      "CalculatedG": 46.666666666666664,
+      "CalculatedB": 85,
+      "TotalPpl": 3
+    },
+    {
+      "Emotion2": "Comfortable",
+      "CalculatedR": 255,
+      "CalculatedG": 255,
+      "CalculatedB": 0,
+      "TotalPpl": 3
+    },
+    {
+      "Emotion2": "Anxious",
+      "CalculatedR": 255,
+      "CalculatedG": 116.66666666666667,
+      "CalculatedB": 0,
+      "TotalPpl": 3
+    },
+    {
+      "Emotion2": "Uncomfortable",
+      "CalculatedR": 127.5,
+      "CalculatedG": 127.5,
+      "CalculatedB": 0,
+      "TotalPpl": 2
+    },
+    {
+      "Emotion2": "Happy",
+      "CalculatedR": 0,
+      "CalculatedG": 191.25,
+      "CalculatedB": 63.75,
+      "TotalPpl": 2
+    },
+    {
+      "Emotion2": "Excited",
+      "CalculatedR": 255,
+      "CalculatedG": 98.75,
+      "CalculatedB": 0,
+      "TotalPpl": 2
+    },
+    {
+      "Emotion2": "Satisfied",
+      "CalculatedR": 255,
+      "CalculatedG": 140,
+      "CalculatedB": 0,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion2": "Sad/Stressed",
+      "CalculatedR": 255,
+      "CalculatedG": 0,
+      "CalculatedB": 0,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion2": "Inconclusive",
+      "CalculatedR": 0,
+      "CalculatedG": 0,
+      "CalculatedB": 255,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion2": "Hypnotized",
+      "CalculatedR": 0,
+      "CalculatedG": 127.5,
+      "CalculatedB": 127.5,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion2": "Energized",
+      "CalculatedR": 0,
+      "CalculatedG": 255,
+      "CalculatedB": 0,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion2": "Confused/Alarmed",
+      "CalculatedR": 255,
+      "CalculatedG": 0,
+      "CalculatedB": 0,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion2": "Concerned",
+      "CalculatedR": 0,
+      "CalculatedG": 127.5,
+      "CalculatedB": 127.5,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion2": "Complicated",
+      "CalculatedR": 0,
+      "CalculatedG": 0,
+      "CalculatedB": 255,
+      "TotalPpl": 1
+    }
+  ]
+}

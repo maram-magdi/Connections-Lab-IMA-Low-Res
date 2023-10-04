@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "century-gothic", sans-serif;
+    background-image: url('images/12245.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-blend-mode: lighten; */
+}
+
+.page-section {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.masthead {
+    margin: 25px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: flex-start; */
+    align-items: center;
+    text-align: center;
+}
+
+.logo-section {
+    width: 20.5%;
+    padding: 1%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+}
+
+#logo {
+    width: 100px;
+    height: auto;
+    margin: 25px 0;
+    /* margin-top: 20px; */
+
+}
+
+#heading {
+    margin: 20px 50px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.filter {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: flex-start; */
+    align-items: center;
+    margin: 20px 0px;
+    padding: 0 20px;
+}
+
+.button-style {
+    font-family: "century-gothic", sans-serif;
+    font-size: large;
+    background-color: transparent;
+    border-color: transparent;
+    border: 2px;
+    border-width: 0px;
+    border-style: solid;
+    padding: 5px 2px;
+    margin-right: 40px;
+}
+
+.button-style:hover {
+    font-weight: 600;
+    border-color: black;
+    border-bottom: 2px;
+    /* border-bottom-width: 0px; */
+    border-bottom-style: solid;
+    cursor: pointer;
+}
+
+.button-style-active {
+    font-weight: 600;
+    border-color: black;
+    border-bottom: 2px;
+    /* border-bottom-width: 0px; */
+    border-bottom-style: solid;
+    cursor: pointer;
+}
+
+#description {
+    color: rgb(80, 80, 80);
+    font-size: medium;
+}
+
+canvas{
+    /* display: flex;*/
+    /* position: absolute;
+    top: 28%;
+    left: 15%; */
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100% !important;
+    height: 100% !important;
+    margin-right: 0.6vh;
+    margin-top: 1.8vh;
+
+}
+
+.middle-section {
+    width: 53%;
+    height: auto;
+    padding: 1%;
+    /* margin: 5%; */
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#lamp {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+#lamp-image {
+    /* position: fixed; */
+    /* background-image: url('images/lamp-frame.png');
+    background-size: contain;
+    background-repeat: no-repeat; */
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.find-out{
+    width: 100%;
+    height:auto;
+    margin: 20px 0;
+}
+
+#right-section {
+    width: 20.5%;
+    height: 100%;
+    padding: 1%;
+    /* margin-right: 5%; */
+    margin: 39% auto 0 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: small;
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 1155px){
+    .page-section {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: flex-start;
+        align-content: center;
+    }
+
+    .logo-section{
+        width: 90%;
+        padding: 1%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .middle-section {
+        width: 90%;
+        height: auto;
+    }
+
+    .masthead {
+        margin: 2px 0;
+    }
+
+    #right-section {
+        width: 90%;
+        height: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    footer {
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+}  

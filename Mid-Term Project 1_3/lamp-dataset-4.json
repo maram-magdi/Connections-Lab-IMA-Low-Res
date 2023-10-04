@@ -1,0 +1,39 @@
+{
+  "Sheet2": [
+    {
+      "Emotion1": "Anxious",
+      "CalculatedR": 127.5,
+      "CalculatedG": 159.375,
+      "CalculatedB": 31.875,
+      "TotalPpl": 4
+    },
+    {
+      "Emotion1": "Calm",
+      "CalculatedR": 102,
+      "CalculatedG": 53.5,
+      "CalculatedB": 153,
+      "TotalPpl": 5
+    },
+    {
+      "Emotion1": "Excited",
+      "CalculatedR": 182.14285714285714,
+      "CalculatedG": 66.42857142857143,
+      "CalculatedB": 36.42857142857143,
+      "TotalPpl": 7
+    },
+    {
+      "Emotion1": "Sad",
+      "CalculatedR": 0,
+      "CalculatedG": 0,
+      "CalculatedB": 255,
+      "TotalPpl": 1
+    },
+    {
+      "Emotion1": "Tired",
+      "CalculatedR": 127.5,
+      "CalculatedG": 197.5,
+      "CalculatedB": 0,
+      "TotalPpl": 2
+    }
+  ]
+}
